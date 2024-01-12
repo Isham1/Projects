@@ -1,2 +1,2 @@
 # Projects
-A collection of all the projects I worked upon
+An assortment of all the projects I worked on during my learning and practice sessions.
