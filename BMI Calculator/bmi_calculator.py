@@ -21,7 +21,7 @@ def bmi (weight, height_inches):
     else:
         print('Your bmi is out of range!!')
 
-# Collect user input and display BMI with description
+# Collect user input and display BMI with health status
 weight = int(input('Please enter your weight: '))
 height_inches = int(input('Please enter your height: '))
 bmi(weight, height_inches)
